@@ -1,3 +1,3 @@
-import { kefir } from "can";
+import { kefir as Kefir } from "can";
 
-kefir.emitterProperty();
+Kefir.emitterProperty();
